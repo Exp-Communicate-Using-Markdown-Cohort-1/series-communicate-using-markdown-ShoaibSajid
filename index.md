@@ -1,1 +1,3 @@
 # This is the heading
+
+![MSIS Lab](https://avatars.githubusercontent.com/u/59193997?s=280&v=4)
